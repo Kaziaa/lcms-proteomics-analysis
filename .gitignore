@@ -1,0 +1,28 @@
+# Raw mass spectrometry data
+*.raw
+*.RAW
+*.mzML
+*.mzXML
+*.wiff
+
+# Large protein databases
+*.fasta
+*.fa
+
+# FragPipe temporary/log files
+*.tmp
+*.log
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment files
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
