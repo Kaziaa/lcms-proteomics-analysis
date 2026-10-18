@@ -1,0 +1,7 @@
+sample,condition,column
+WT-1,IDHwt,1 MaxLFQ Intensity
+WT-2,IDHwt,2 MaxLFQ Intensity
+WT-3,IDHwt,3 MaxLFQ Intensity
+MUT-1,IDHmut,4 MaxLFQ Intensity
+MUT-2,IDHmut,5 MaxLFQ Intensity
+MUT-3,IDHmut,6 MaxLFQ Intensity
